@@ -1,2 +1,3 @@
-# odin-recipes
-This project is about making a web page that contains few cooking recipes from the Fallout universe. All used recipes can be found in "Fallout: The Vault Dweller´s Official Cookbook". This project will use purely HTML, without CSS.
+# ☢️ Fallout Cookbook ☢️
+This project is a HTML website containing hand-picked recipes from the Fallout universe.
+All used recipes are from "Fallout: The Vault Dweller's Official Cookbook".
